@@ -1,0 +1,8 @@
+# ignore all doc files
+*.docx
+
+# ignore 
+GBengschAdvReg.txt
+
+# ignore
+advreg_GeraldineBengsch copy.ipynb
